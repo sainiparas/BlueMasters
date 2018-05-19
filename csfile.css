@@ -1,0 +1,333 @@
+body{
+    background-color:#2A2C2F;
+}
+
+.bc{
+    background-color:#404A62;
+    color:white;
+    font-family:cambria;
+    padding:20px;
+   
+}
+
+.cs1{
+    background-color:#1C1F28;
+}
+
+.cs2{
+    font-family:cambria;
+}
+
+.cs2:hover{
+    text-decoration:none;
+    font-family:cambria;
+}
+
+.cs3{
+    color:gray;
+}
+
+.cs4{
+    padding-top:20px;
+}
+
+.cs5{
+    padding-top:8px;
+}
+
+.cs6{
+  background-color:indigo;
+}
+
+.cs8{
+    background-color:#2A2C2F;
+}
+
+
+
+@media only screen and (max-width:780px) and (min-width:700px)
+{
+    .ck{
+           padding-left:100px;
+    }
+}
+
+.cs9{
+    color:white;
+    font-weight:bold;
+    font-family:cambria;
+    
+}
+
+.cs10{
+    color:white;
+    font-size:15px;
+    font-weight:bold;
+}
+
+
+@media only screen and (max-width:1500px) and (min-width:1200px)
+{
+    .cs11{
+        height:500px;
+        border-bottom:4px solid white;
+
+    }
+}
+
+
+@media only screen and (max-width:1500px) and (min-width:1200px)
+{
+    .cs12{
+        padding-bottom:220px;
+       
+        font-family:cambria;
+        font-weight:bold;
+        
+    }
+}
+
+@media only screen and (max-width:650px) and (min-width:400px)
+{
+    .cs12{
+        font-family:cambria;
+        padding-bottom:0px;
+        font-size:10px;
+    }
+}
+
+
+@media only screen and (max-width:400px) and (min-width:200px)
+{
+    .cs12{
+        padding-bottom:0px;
+        font-size:5px;
+           font-family:cambria;
+        font-weight:bold;
+    }
+}
+
+.cs13{
+    opacity:0.5;
+}
+
+
+.cs14{
+    color:white;
+    font-weight:bold;
+    font-size:25px;
+    background-color:#404A62;
+}
+
+.cs16{
+    background-color:#232732;
+}
+
+.cs15{
+    color:white;
+    font-weight:bold;
+    font-size:18px;
+}
+
+.cs17{
+    color:lightslategray;
+}
+
+
+.cs18{
+    padding:10px;
+}
+
+.cs19{
+     color:white;
+    
+    font-size:15px;
+}
+
+
+.cs20{
+    color:white;
+    font-weight:bold;
+    font-size:25px;
+
+}
+
+
+.cs21{
+    list-style-type:none;
+}
+
+.cs22{
+    text-decoration:none;
+}
+
+.cs21 li a{
+    text-decoration:none;
+    color:lightslategray;
+}
+
+
+.cs24{
+    border:2px solid #232732;;
+}
+
+.cs25{
+    color:#337AB7;
+    font-family:cambria;
+}
+
+
+@media only screen and (max-width:1500px) and (min-width:1200px)
+{
+    #ak{
+           border-radius:5px;
+        background-color:lightslategray;
+        padding:5px;
+    }
+}
+
+@media only screen and (max-width:1200px) and (min-width:992px)
+{
+    #ak{
+           border-radius:5px;
+        background-color:lightslategray;
+        padding:5px;
+    }
+}
+
+@media only screen and (max-width:992px) and (min-width:768px)
+{
+    #ak{
+           border-radius:5px;
+        background-color:lightslategray;
+        padding:5px;
+    }
+}
+
+@media only screen and (max-width:768px) and (min-width:500px)
+{
+    #ak{
+           border-radius:5px;
+        background-color:lightslategray;
+        width:200px;
+        padding:10px;
+    }
+}
+
+@media only screen and (max-width:500px) and (min-width:000px)
+{
+    #ak{
+           border-radius:5px;
+        background-color:lightslategray;
+        width:200px;
+        padding:10px;
+    }
+}
+
+
+.body-border{
+    border:15px solid #1C1F28; background-color:white;
+    border-radius:10px;
+}
+
+.cs29{
+    display:none;
+}
+
+.padi{
+    padding:5px;
+}
+
+.para{
+    font-family:Book Antiqua;
+    font-size:16px;
+    text-align:justify;
+
+}
+
+.lin{
+    border:1px dotted lightgray;
+}
+
+.gray{
+    background-color:darkgray;
+    font-weight:bold;color:white;
+    font-family:cambria;
+   font-size:18px;
+}
+
+.gray1{
+    background-color:lightgray;
+}
+
+.gray2{
+    text-align:justify;
+
+}
+
+.bord{
+    border-bottom:1px solid darkgray;
+    background-color:white;
+}
+
+@media only screen and (max-width:1500px) and (min-width:1200px)
+{
+    .cs31{
+         height:400px;
+    }
+}
+
+.cs34{
+    display:block;
+    font-weight:bold;
+    font-family:cambria;
+    color:dimgray;
+    font-size:18px;
+}
+
+.padin{
+    padding-left:80px;
+}
+
+.ak{
+    display:block;
+    font-weight:bold;
+    font-family:cambria;
+    color:dimgray;
+    font-size:18px;
+}
+
+@media only screen and (max-width:992px) and (min-width:655px)
+{
+    .appl{
+         
+        margin-left:200px;
+    }
+}
+
+
+@media only screen and (max-width:655px) and (min-width:570px)
+{
+    .appl{
+      
+        margin-left:150px;
+    }
+}
+
+
+@media only screen and (max-width:570px) and (min-width:450px)
+{
+    .appl{
+       
+        margin-left:100px;
+    }
+}
+
+
+@media only screen and (max-width:450px) and (min-width:400px)
+{
+    .appl{
+        
+        margin-left:70px;
+    }
+}
