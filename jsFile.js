@@ -196,6 +196,11 @@ function form_det()
       
 }
 
+function loadin()
+{
+   document.getElementById("loa").src = "ani.gif";
+}
+
 
 
 
